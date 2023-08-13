@@ -1,4 +1,4 @@
-![logo](https://github.com/degala-prasanna/degala-prasanna/blob/main/Banner.png)
+![logo](https://github.com/degala-prasanna/degala-prasanna/blob/main/Banner.gif)
 <h1 align="center">Hi 👋, I'm Degala Sai Prasanna</h1>
 <h3 align="center">A passionate Front-End Developer from India</h3>
 
